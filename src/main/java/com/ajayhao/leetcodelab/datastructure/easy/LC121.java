@@ -1,8 +1,5 @@
 package com.ajayhao.leetcodelab.datastructure.easy;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * 121. 买卖股票的最佳时机
  给定一个数组 prices ，它的第i个元素prices[i] 表示一支给定股票第 i 天的价格。
