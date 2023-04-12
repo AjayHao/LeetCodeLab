@@ -1,9 +1,6 @@
 package com.ajayhao.leetcodelab.datastructure.easy;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 /**
  383. 赎金信
